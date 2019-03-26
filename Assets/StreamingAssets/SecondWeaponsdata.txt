@@ -1,0 +1,81 @@
+[{
+	"Id": 0,
+	"Properties": {
+		"0": {
+			"RopertyName": "射速",
+			"Level": 1,
+			"Id": 0,
+			"BaseUpdateCoin": 200,
+			"MaxLevel": 100,
+			"BaseValue": 5,
+			"ValueCoe": 1.1,
+			"MaxUpdateCoin": 3000000,
+			"CoinCoe": 900.0
+		},
+		"1": {
+			"RopertyName": "火力",
+			"Level": 1,
+			"Id": 1,
+			"BaseUpdateCoin": 200,
+			"MaxLevel": 2147483647,
+			"BaseValue": 100,
+			"ValueCoe": 10.0,
+			"MaxUpdateCoin": 2000000,
+			"CoinCoe": 800.0
+		}
+	}
+},
+{
+	"Id": 1,
+	"Properties": {
+		"0": {
+			"RopertyName": "强度",
+			"Level": 1,
+			"Id": 0,
+			"BaseUpdateCoin": 1000,
+			"MaxLevel": 100,
+			"BaseValue": 20,
+			"ValueCoe": 1.3,
+			"MaxUpdateCoin": 3000000,
+			"CoinCoe": 1100.0
+		},
+		"1": {
+			"RopertyName": "火力",
+			"Level": 1,
+			"Id": 1,
+			"BaseUpdateCoin": 1000,
+			"MaxLevel": 2147483647,
+			"BaseValue": 200,
+			"ValueCoe": 30.0,
+			"MaxUpdateCoin": 2000000,
+			"CoinCoe": 1000.0
+		}
+	}
+},
+{
+	"Id": 2,
+	"Properties": {
+		"0": {
+			"RopertyName": "强度",
+			"Level": 1,
+			"Id": 0,
+			"BaseUpdateCoin": 2000,
+			"MaxLevel": 100,
+			"BaseValue": 50,
+			"ValueCoe": 1.5,
+			"MaxUpdateCoin": 3000000,
+			"CoinCoe": 1200.0
+		},
+		"1": {
+			"RopertyName": "火力",
+			"Level": 1,
+			"Id": 1,
+			"BaseUpdateCoin": 2000,
+			"MaxLevel": 2147483647,
+			"BaseValue": 100,
+			"ValueCoe": 10.0,
+			"MaxUpdateCoin": 2000000,
+			"CoinCoe": 800.0
+		}
+	}
+}]
